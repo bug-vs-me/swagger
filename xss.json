@@ -1,7 +1,7 @@
 {
-    "url": "https://xss.smarpo.com/test.yaml",
+    "url": "https://raw.githubusercontent.com/bug-vs-me/swagger/main/xss.yaml",
     "urls": [{
-        "url": "https://xss.smarpo.com/test.yaml",
+        "url": "https://raw.githubusercontent.com/bug-vs-me/swagger/main/xss.yaml",
         "name": "Foo"
     }]
 }
